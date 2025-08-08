@@ -25,24 +25,11 @@ After cloning the repository, navigate into the project directory:
 ```bash
 cd code-server-starter
 ```
-
-### 3. Make the Bash Script Executable
-
-Make the provided script executable by running the following command:
-
+###3. Run the script 
 ```bash
-chmod +x run_code_server.sh
-```
+bash starter.sh
 
-### 4. Run the Script
-
-Now, run the script to pull the latest Docker image for `code-server` and start the container on port `8080`:
-
-```bash
-./run_code_server.sh
-```
-
-### 5. Access code-server
+### 4. Access code-server
 
 Once the script has completed, open your browser and go to:
 
