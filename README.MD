@@ -1,11 +1,9 @@
 YOU MUST HAVE DOCKER
 -
-````markdown
-# code-server-starter
+-
 
 This repository provides an easy way to launch and configure `code-server` (a web-based IDE) using Docker. Follow the instructions below to clone the repository, run the script, and access `code-server` on your local machine.
-
-## Requirements
+-
 
 - Docker installed on your machine
 - A terminal/command-line interface
