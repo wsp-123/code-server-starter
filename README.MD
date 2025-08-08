@@ -35,7 +35,7 @@ Once the script has completed, open your browser and go to:
 
 ```
 http://localhost:8080
-```
+
 
 You will be prompted for a password to access the IDE.
 
