@@ -48,8 +48,10 @@ To retrieve the password manually, you can run:
 
 ```bash
 cat /var/lib/docker/overlay2/$(docker inspect --format '{{.GraphDriver.Data.LowerDir}}' tender_dhawan | cut -d/ -f4-)/merged/home/coder/.config/code-server/config.yaml
+
 or run 
-'''bash
+
+```bash
 docker exec tender_dhawan cat /home/coder/.config/code-server/config.yaml
 ```
 
