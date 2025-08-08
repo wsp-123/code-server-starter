@@ -75,4 +75,4 @@ If you encounter any issues, the above command will provide the password for acc
 - **Running the Bash Script**: Shows how to execute the setup.
 - **Password Retrieval**: Provides a fallback for when the password isn’t shown directly.
 - **Troubleshooting**: Offers support for common issues.
-```
+
