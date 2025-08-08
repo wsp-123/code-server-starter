@@ -1,5 +1,5 @@
-YOU MUST HAVE DOCKER
 -
+For a free, interactive linux terminal, user Killercoda's interactive terminal.
 -
 
 This repository provides an easy way to launch and configure `code-server` (a web-based IDE) using Docker. Follow the instructions below to clone the repository, run the script, and access `code-server` on your local machine.
